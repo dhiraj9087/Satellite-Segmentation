@@ -1,0 +1,7 @@
+numpy==1.23.5
+opencv-python
+pillow
+scikit-learn
+patchify
+keras
+matplotlib
