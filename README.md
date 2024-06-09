@@ -14,7 +14,7 @@ The Satellite Segmentation Model project focuses on semantic segmentation of sat
 
 
 ## Model Training
-The UNet model is trained using the model.fit() function with specified batch size, epochs, and validation data.
+The [UNet Model](#https://production-media.paperswithcode.com/methods/Screen_Shot_2020-07-07_at_9.08.00_PM_rpNArED.png) is trained using the model.fit() function with specified batch size, epochs, and validation data.
 
 Evaluation and Visualization
 ----------------------------
